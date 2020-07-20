@@ -1,4 +1,4 @@
-# Mineral Recognizer (Deloitte TechnUtsav 3.0)
+# Mineral Recognizer (Deloitte TechnoUtsav 3.0)
 
 ## Project Architecture
 ![proj_arch](https://github.com/tachodril/Deloitte_mineral_ai/blob/master/snaps/ProjectArchitecture.png)
